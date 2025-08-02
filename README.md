@@ -1,5 +1,16 @@
 <img alt="salmon logo" src="https://github.com/COMBINE-lab/salmon/raw/master/doc/salmon_logo.png" width="600">
 
+This is the modified branch of release of v1.10.1 that builds with 13.3.0. Modified files:
+
+Files modified by Audrius Meskauskasi August 2, 2025 :
+
+* README.md
+* src/EffectiveLengthStats.cpp
+* src/SalmonExceptions.cpp
+* src/VersionChecker.cpp
+
+GPL license respected. Feel free to use.
+
 [![Documentation Status](https://readthedocs.org/projects/salmon/badge/?version=latest)](http://salmon.readthedocs.org/en/latest)
 [![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg?style=flat-square)](http://bioconda.github.io/recipes/salmon/README.html)
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/combine-lab/salmon?style=flat-square)

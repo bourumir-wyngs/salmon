@@ -1,3 +1,4 @@
+#include <cstdint>
 #include "EffectiveLengthStats.hpp"
 #include "SalmonMath.hpp"
 

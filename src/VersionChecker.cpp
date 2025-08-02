@@ -1,3 +1,4 @@
+#include <cstdint>
 #include "VersionChecker.hpp"
 #include "SalmonConfig.hpp"
 #include "httplib.hpp"

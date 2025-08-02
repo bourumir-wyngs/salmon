@@ -1,3 +1,4 @@
+#include <cstdint>
 #include "SalmonExceptions.hpp"
 
 InsufficientAssignedFragments::InsufficientAssignedFragments(

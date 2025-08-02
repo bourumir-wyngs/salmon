@@ -1,6 +1,6 @@
 <img alt="salmon logo" src="https://github.com/COMBINE-lab/salmon/raw/master/doc/salmon_logo.png" width="600">
 
-This is the modified branch of release of v1.10.1 that builds with GCC 13.3.0. Files modified by Audrius Meskauskasi August 2, 2025 :
+This is the modified branch of release of v1.10.1 that builds with GCC 13.3.0. Files modified by Audrius Meskauskas, August 2, 2025 :
 
 * README.md
 * src/EffectiveLengthStats.cpp
